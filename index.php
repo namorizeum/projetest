@@ -11,6 +11,7 @@
     <?php
     echo "cette fois, mon PHP est <strong>interprété</strong><br>";
     echo "le resultat de l'adition est "  . (75+10) . "<br>";
+    echo "teste 2";
     ?>
 </body>
 </html>
